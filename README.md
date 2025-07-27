@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Lover+of+Dark+Themes+%26+Clean+UIs;Let's+Build+Together+%F0%9F%9A%80" />
 </p>
 
-🌍 Connect with Me:
+## 🌍 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/arpit-rathore-b62288210/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_arpt_/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -38,19 +38,72 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=arpit-rathore&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-rathore&layout=compact&langs_count=8&theme=radical"/>
-</p>
+### 🚀 Developer Analytics
+
+<div align="center">
+
+### ⚡ Performance Metrics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
+<img width="49%" src="https://streak-stats.demolab.com?user=arpit-rathore&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7C3AED&dates=8B949E&border_radius=8" />
+
+## 🎯 Code Distribution
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8&exclude_repo=repo1,repo2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=arpit-rathore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8" />
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-rathore&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB)
+
+## 🏆 Achievement Showcase
+
+<img width="32%" src="https://github-profile-trophy.vercel.app/?username=arpit-rathore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=3" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=arpit-rathore&repo=your-best-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=arpit-rathore&repo=another-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
 
 ---
 
-### 📌 Most Used Languages (Manually Specified)
+### 💫 Quick Stats
+![Profile Views](https://komarev.com/ghpvc/?username=arpit-rathore&color=58A6FF&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/arpit-rathore?color=58A6FF&style=for-the-badge&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/arpit-rathore?color=58A6FF&style=for-the-badge&logo=github&label=Total+Stars)
+
+</div>
+
+---
+
+<details>
+<summary>🔍 <b>View Detailed Analytics</b></summary>
+<br>
+
+### 📊 Advanced Metrics
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-rathore&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8" />
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+
+<br clear="both"/>
+
+### ⏱️ Coding Time Distribution
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ███████████░░░░░░░░░░░░░░   45.2%
+JavaScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   29.8%
+Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
+CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
+HTML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    3.9%
+```
+<!--END_SECTION:waka-->
+
+</details>
+
+---
+
+### 📌 Most Used Languages
 ```text
 JavaScript   ██████████████░░░░░  38.90%
 HTML         ███████████░░░░░░░░  27.84%
 CSS          ██████░░░░░░░░░░░░  17.95%
 TypeScript   ██░░░░░░░░░░░░░░░░  ~10%
-Others       ░░░░░░░░░░░░░░░░░░   5%
