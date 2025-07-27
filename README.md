@@ -47,9 +47,9 @@
 
 ---
 
-### 📌 Most Used Languages
+## 📌 Most Used Languages
 ```text
 JavaScript   ██████████████░░░░░  38.90%
 HTML         ███████████░░░░░░░░  27.84%
-CSS          ██████░░░░░░░░░░░░  17.95%
-TypeScript   ██░░░░░░░░░░░░░░░░  ~10%
+CSS          ██████░░░░░░░░░░░░   17.95%
+TypeScript   ██░░░░░░░░░░░░░░░░   10%
