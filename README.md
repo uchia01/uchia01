@@ -38,66 +38,12 @@
 
 ---
 
-### 🚀 Developer Analytics
+## 🚀 Developer Analytics
 
 <div align="center">
 
-### ⚡ Performance Metrics
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
 <img width="49%" src="https://streak-stats.demolab.com?user=arpit-rathore&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7C3AED&dates=8B949E&border_radius=8" />
-
-## 🎯 Code Distribution
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8&exclude_repo=repo1,repo2" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=arpit-rathore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8" />
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit-rathore&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB)
-
-## 🏆 Achievement Showcase
-
-<img width="32%" src="https://github-profile-trophy.vercel.app/?username=arpit-rathore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=3" />
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=arpit-rathore&repo=your-best-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=arpit-rathore&repo=another-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
-
----
-
-### 💫 Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=arpit-rathore&color=58A6FF&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/arpit-rathore?color=58A6FF&style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/arpit-rathore?color=58A6FF&style=for-the-badge&logo=github&label=Total+Stars)
-
-</div>
-
----
-
-<details>
-<summary>🔍 <b>View Detailed Analytics</b></summary>
-<br>
-
-### 📊 Advanced Metrics
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-rathore&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8" />
-
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
-<br clear="both"/>
-
-### ⏱️ Coding Time Distribution
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ███████████░░░░░░░░░░░░░░   45.2%
-JavaScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   29.8%
-Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
-CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
-HTML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    3.9%
-```
-<!--END_SECTION:waka-->
-
-</details>
 
 ---
 
