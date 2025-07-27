@@ -6,11 +6,11 @@
 
 🌍 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/arpitrathore" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/arpit_codes" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/arpitrathore.dev" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://x.com/arpitrathore" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://wa.me/919999999999" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arpit-rathore-b62288210/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_arpt_/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/arpit.rathore.3158652" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/Arpit_rath07" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://wa.me/918171159919" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ## 🧰 Tech Stack
@@ -38,11 +38,19 @@
 
 ---
 
-## 📈 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpit-Rathore&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpit-Rathore&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=arpit-rathore&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-rathore&layout=compact&langs_count=8&theme=radical"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide=python,jupyter%20notebook,shell,dockerfile&custom_title=Most%20Used%20Languages" />
-</p>
+
+---
+
+### 📌 Most Used Languages (Manually Specified)
+```text
+JavaScript   ██████████████░░░░░  38.90%
+HTML         ███████████░░░░░░░░  27.84%
+CSS          ██████░░░░░░░░░░░░  17.95%
+TypeScript   ██░░░░░░░░░░░░░░░░  ~10%
+Others       ░░░░░░░░░░░░░░░░░░   5%
