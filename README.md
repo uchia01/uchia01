@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Rathore</h1>
 <h3 align="center">DevOps & Full Stack Engineer | UI/UX Designer | AI Explorer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Lover+of+Dark+Themes+%26+Clean+UIs;Let's+Build+Together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=DevOps+&+Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Lover+of+Dark+Themes+%26+Clean+UIs;Let's+Build+Together+%F0%9F%9A%80" />
 </p>
 
 ## 🌍 Connect with Me:
