@@ -122,13 +122,11 @@
 ---
 
 ### 🎧 Currently Vibing To
-
-<div align="center">
+<p align="center">
   <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n2lgh7xg3t6w7y4g6x7m3x7d6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/🎵%20CURRENT%20VIBE-LISTEN%20ON%20SPOTIFY-8B0000?style=for-the-badge&labelColor=111111&color=B30012" alt="Current Spotify Track" />
   </a>
-</div>
-
+</p>
 ---
 
 ## 🌐 Connect With Me
