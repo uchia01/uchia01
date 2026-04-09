@@ -1,55 +1,183 @@
-<h1 align="center">Hi 👋, I'm Arpit Rathore</h1>
-<h3 align="center">DevOps & Full Stack Engineer | UI/UX Designer | AI Explorer</h3>
+<!-- ========================= -->
+<!--        TOP BANNER         -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=DevOps+Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Lover+of+Dark+Themes+%26+Clean+UIs;Let's+Build+Together+%F0%9F%9A%80" />
+  <img src="YOUR_TOP_BANNER_IMAGE_LINK_HERE" alt="Arpit Rathore UCHIA Banner" width="100%" />
 </p>
 
-## 🌍 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpit-rathore-b62288210/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_arpt_/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/arpit.rathore.3158652" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://x.com/Arpit_rath07" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://wa.me/918171159919" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<h1 align="center">⚔️ 𝕬𝖗𝖕𝖎𝖙 𝕽𝖆𝖙𝖍𝖔𝖗𝖊 ⚔️</h1>
+<h3 align="center">Frontend Developer • Full Stack Learner • Creative UI Architect • Anime Inspired Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Crafting+Immersive+Web+Experiences;Building+Dark+Premium+Interfaces;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;UCHIA+MODE+ACTIVATED+%F0%9F%A9%B8" alt="Typing SVG" />
 </p>
-
-## 🧰 Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### ⚙️ Backend & DB
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-
-### 🔧 Tools & Deployment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 
 ---
 
-## 🚀 Developer Analytics
+## 🩸 About Me
 
-<div align="center">
+<img align="right" alt="Sharingan" width="280" src="https://media.tenor.com/0z8wCk5zF0EAAAAC/itachi-uchiha.gif" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" />
-<img width="49%" src="https://streak-stats.demolab.com?user=arpit-rathore&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7C3AED&dates=8B949E&border_radius=8" />
+- 🔥 Passionate about building **premium, immersive, and animated web experiences**
+- ⚔️ Focused on **Frontend Development**, while evolving into **Full Stack + DevOps**
+- 🧠 Currently mastering:
+  - **JavaScript**
+  - **TypeScript**
+  - **React.js**
+  - **Next.js**
+  - **Node.js / Express.js**
+  - **UI/UX + Animation Systems**
+- 🌌 Building projects with **anime-inspired storytelling and strong visual identity**
+- 🚀 I love crafting websites that feel **alive, cinematic, and unforgettable**
+- 🎯 Goal: Build a portfolio and GitHub presence that stands out to **clients + recruiters**
+- 📍 Based in India
+- 💬 Ask me about **Frontend, UI/UX, animations, portfolio design, landing pages, Vite, Next.js**
+
+<br clear="right"/>
 
 ---
 
-## 📌 Most Used Languages
-```text
-JavaScript   ██████████████░░░░░  38.90%
-HTML         ███████████░░░░░░░░  27.84%
-CSS          ██████░░░░░░░░░░░░   17.95%
-TypeScript   ██░░░░░░░░░░░░░░░░   10%
+## ⚔️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite,nodejs,express,mongodb,firebase,git,github,vercel,figma,threejs" />
+</p>
+
+---
+
+## 🧠 Core Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-Design%20Driven-8B0000?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Frontend-Premium%20Interfaces-B30012?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Animation-GSAP%20%7C%20Lenis%20%7C%20MicroInteractions-990000?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Backend-Learning%20Node%20%26%20Express-7A0000?style=for-the-badge&labelColor=111111" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩸 1. UCHIA Portfolio
+> Anime-inspired premium portfolio with Sharingan aesthetics, cinematic interactions, smooth transitions, and immersive storytelling.
+
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, GSAP, ScrollTrigger, Lenis
+- **Live Demo:** [View Project](https://kanvar-portfolio.vercel.app/)
+- **Repository:** [View Code](https://github.com/uchia01/uchia01)
+
+---
+
+### 🚗 2. DuraCabs – Car Rental Platform
+> Modern car rental platform focused on responsive design, clean booking experience, and conversion-driven layout.
+
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
+- **Live Demo:** [View Project](https://duracabs-next-js.vercel.app/)
+- **Repository:** [View Code](https://github.com/uchia01/duracabs-next-js)
+
+---
+
+### ☕ 3. Coffee Shop Website
+> A modern and stylish coffee shop website with smooth UI sections, premium product storytelling, and strong visual hierarchy.
+
+- **Tech Stack:** React / Next.js / Tailwind CSS
+- **Live Demo:** [View Project](https://coffee-shop-alpha-beryl.vercel.app/)
+- **Repository:** [View Code](https://github.com/uchia01/coffee-shop)
+
+---
+
+### 🏥 4. Unique Wellness Care
+> A healthcare-focused website optimized for trust, service clarity, SEO structure, and user-friendly navigation.
+
+- **Tech Stack:** React, Vite, CSS / Tailwind
+- **Live Demo:** [View Project](https://www.uniquewellnesscare.com/)
+- **Repository:** [View Code](https://github.com/uchia01/unique-wellness-care)
+
+---
+
+## 📊 GitHub Power
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uchia01&show_icons=true&theme=shadow_red&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uchia01&theme=highcontrast&hide_border=true&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchia01&layout=compact&theme=shadow_red&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff" />
+</p>
+
+---
+
+## 🏆 Achievements & Focus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uchia01&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</p>
+
+- 🧩 Building standout frontend experiences
+- ⚡ Improving performance, SEO, and structure
+- 🎨 Designing visually memorable developer brands
+- 🛠️ Expanding toward **Full Stack + DevOps architecture**
+- 📈 Creating projects that attract **recruiters, clients, and opportunities**
+
+---
+
+## 🎧 Current Vibe
+
+<p align="center">
+  <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
+    <img src="https://img.shields.io/badge/🎵%20CURRENT%20VIBE-LISTEN%20ON%20SPOTIFY-8B0000?style=for-the-badge&labelColor=111111&color=B30012" alt="Current Spotify Track" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpit-got-no-chill/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
+  </a>
+  <a href="mailto:arpitrathore453@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-B30012?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
+  </a>
+  <a href="https://kanvar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-990000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+  </a>
+  <a href="https://x.com/Arpit_rath07">
+    <img src="https://img.shields.io/badge/X-Follow-660000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" />
+  </a>
+</p>
+
+---
+
+## 🩸 Currently Building
+
+- 🚀 Upgrading my portfolio into a **full-stack premium experience**
+- ⚙️ Learning **backend architecture + deployment workflows**
+- 🎨 Improving **motion design, micro-interactions, and performance**
+- 🧠 Growing stronger in **JavaScript, React, Next.js, and TypeScript**
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uchia01/uchia01/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🩸 Quote of the Shinobi
+
+<p align="center">
+  <i>"Power is not given. It is built through discipline, vision, and relentless creation."</i>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--      BOTTOM BANNER        -->
+<!-- ========================= -->
+<p align="center">
+  <img src="YOUR_BOTTOM_BANNER_IMAGE_LINK_HERE" alt="Arpit Rathore UCHIA Bottom Banner" width="100%" />
+</p>
