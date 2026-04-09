@@ -121,11 +121,19 @@
 
 ---
 
-## 🎧 Current Vibe
+## 🎵 Currently Vibing To
 
 <p align="center">
   <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
-    <img src="https://img.shields.io/badge/🎵%20CURRENT%20VIBE-LISTEN%20ON%20SPOTIFY-8B0000?style=for-the-badge&labelColor=111111&color=B30012" alt="Current Spotify Track" />
+    <img src="YOUR-ALBUM-IMAGE-LINK" width="180" alt="Spotify Track Cover" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Song Title Here</b><br/>
+  <sub>Artist Name Here</sub><br/><br/>
+  <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
+    <img src="https://img.shields.io/badge/🎧%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
   </a>
 </p>
 
