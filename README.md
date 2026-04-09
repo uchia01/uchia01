@@ -121,60 +121,12 @@
 
 ---
 
-## 🎵 Currently Vibing To
+### 🎧 Currently Vibing To
+
 <div align="center">
-
-<div style="
-width:600px;
-background:#8B3A00;
-border-radius:20px;
-padding:20px;
-display:flex;
-align-items:center;
-gap:20px;
-color:white;
-font-family:sans-serif;
-">
-
-<img src="(https://i.scdn.co/image/ab67616d00001e0206ca7b28be5af019242a6d19)" style="width:100px;height:100px;border-radius:10px;"/>
-
-<div style="flex:1;text-align:left;">
-  <h3 style="margin:0;">I Only Smoke When I Drink</h3>
-  <p style="margin:5px 0;">nimino</p>
-
-  <div style="
-    height:5px;
-    background:#5a1f00;
-    border-radius:10px;
-    margin-top:10px;
-  ">
-    <div style="
-      width:60%;
-      height:100%;
-      background:white;
-      border-radius:10px;
-    "></div>
-  </div>
-
-  <p style="font-size:12px;margin-top:5px;">03:18</p>
-</div>
-
-<div style="
-width:40px;
-height:40px;
-background:white;
-border-radius:50%;
-display:flex;
-align-items:center;
-justify-content:center;
-color:#8B3A00;
-font-weight:bold;
-">
-▶
-</div>
-
-</div>
-
+  <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n2lgh7xg3t6w7y4g6x7m3x7d6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
