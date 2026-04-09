@@ -2,7 +2,7 @@
 <!--        TOP BANNER         -->
 <!-- ========================= -->
 <p align="center">
-  <img src="YOUR_TOP_BANNER_IMAGE_LINK_HERE" alt="Arpit Rathore UCHIA Banner" width="100%" />
+  <img src="/assets/ban1.png" alt="Arpit Rathore UCHIA Banner" width="100%" />
 </p>
 
 <h1 align="center">⚔️ 𝕬𝖗𝖕𝖎𝖙 𝕽𝖆𝖙𝖍𝖔𝖗𝖊 ⚔️</h1>
@@ -177,5 +177,5 @@
 <!--      BOTTOM BANNER        -->
 <!-- ========================= -->
 <p align="center">
-  <img src="YOUR_BOTTOM_BANNER_IMAGE_LINK_HERE" alt="Arpit Rathore UCHIA Bottom Banner" width="100%" />
+  <img src="/assets/ban2.png" alt="Arpit Rathore UCHIA Bottom Banner" width="100%" />
 </p>
