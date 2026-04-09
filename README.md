@@ -122,18 +122,9 @@
 ---
 
 ## 🎵 Currently Vibing To
-
 <p align="center">
   <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
-    <img src="YOUR-ALBUM-IMAGE-LINK" width="180" alt="Spotify Track Cover" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Song Title Here</b><br/>
-  <sub>Artist Name Here</sub><br/><br/>
-  <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
-    <img src="https://img.shields.io/badge/🎧%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+    <img src="YOUR-SPOTIFY-CARD-IMAGE-LINK" width="500" alt="Spotify Track Card" />
   </a>
 </p>
 
