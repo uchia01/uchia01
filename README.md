@@ -124,7 +124,7 @@
 ## 🎵 Currently Vibing To
 <p align="center">
   <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
-    <img src="YOUR-SPOTIFY-CARD-IMAGE-LINK" width="500" alt="Spotify Track Card" />
+    <img src="(https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR?si=e1d9f5983f4444c3)" width="500" alt="Spotify Track Card" />
   </a>
 </p>
 
