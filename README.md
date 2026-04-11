@@ -124,7 +124,7 @@
 ### 🎧 Currently Vibing To
 <p align="center">
   <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR?si=9ce1153522e04228">
-    <img src="https://res.cloudinary.com/djbamfi6r/image/upload/v1775890337/Frame_2_1_ypnwak.png" width="420"/>
+    <img src="https://res.cloudinary.com/djbamfi6r/image/upload/v1775890337/Frame_2_1_ypnwak.png" width="520" height="220"/>
   </a>
 </p>
 ---
