@@ -29,38 +29,52 @@ Focused on building fast, scalable, and impactful products 🚀</p>
 
 ## ⚡ Tech Arsenal
 
-### 🎮 Creative Development
+### 🤖 AI / LLM Stack
 <p>
-<img src="https://skillicons.dev/icons?i=react,threejs,js&theme=dark" />
-<img src="https://img.shields.io/badge/GSAP-171817?style=for-the-badge&logo=greensock&logoColor=11e54e"/>
-<img src="https://img.shields.io/badge/WebGL-05122A?style=for-the-badge"/>
-</p>
-
-### ⚙️ Full Stack
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,vite&theme=dark" />
-</p>
-
-### 🤖 AI / LLM
-<p>
-<img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GPT-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
-
-### ☁️ DevOps / DevSecOps
-<p>
-<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge"/>
-</p>
-
-### 🎨 Design
-<p>
-<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python" height="28"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="28"/> LLM Agents &nbsp;&nbsp;
+🧠 GPT & Prompt Engineering
 </p>
 
 ---
+
+### ⚙️ Full Stack Development
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs" height="28"/> Next.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="28"/> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="28"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="28"/> Node.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="28"/> Express &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="28"/> MongoDB &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="28"/> Vite
+</p>
+
+---
+
+### 🎮 Creative & Animation
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="28"/> React Animation &nbsp;&nbsp;
+✨ GSAP &nbsp;&nbsp;
+🌐 WebGL &nbsp;&nbsp;
+🔺 Three.js
+</p>
+
+---
+
+### ☁️ DevOps & System Design
+<p>
+⚙️ DevOps &nbsp;&nbsp;
+🔐 DevSecOps &nbsp;&nbsp;
+🏗 System Design
+</p>
+
+---
+
+### 🎨 Design & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma" height="28"/> Figma &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=blender" height="28"/> Blender
+</p>
 
 ## 🎧 Now Vibing
 
