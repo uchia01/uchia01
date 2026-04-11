@@ -5,7 +5,9 @@
   <img src="/assets/ban1.png" alt="Arpit Rathore UCHIA Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Arpi Rathore</h1>
+<p align="center">Hey folks 👋 welcome to my profile
+I design and develop full-stack applications, AI solutions, and creative interfaces.
+Focused on building fast, scalable, and impactful products 🚀</p>
 <h3 align="center">🚀 Full Stack • 🤖 AI/LLM • 🎮 Creative Dev • ☁️ DevOps</h3>
 
 <p align="center">
