@@ -14,112 +14,65 @@
 
 ---
 
-## 🩸 About Me
-
-<img align="right" alt="Sharingan" width="280" src="https://media.tenor.com/0z8wCk5zF0EAAAAC/itachi-uchiha.gif" />
-
-- 🔥 Passionate about building **premium, immersive, and animated web experiences**
-- ⚔️ Focused on **Frontend Development**, while evolving into **Full Stack + DevOps**
-- 🧠 Currently mastering:
-  - **JavaScript**
-  - **TypeScript**
-  - **React.js**
-  - **Next.js**
-  - **Node.js / Express.js**
-  - **UI/UX + Animation Systems**
-- 🌌 Building projects with **anime-inspired storytelling and strong visual identity**
-- 🚀 I love crafting websites that feel **alive, cinematic, and unforgettable**
-- 🎯 Goal: Build a portfolio and GitHub presence that stands out to **clients + recruiters**
-- 📍 Based in India
-- 💬 Ask me about **Frontend, UI/UX, animations, portfolio design, landing pages, Vite, Next.js**
-
-<br clear="right"/>
-
----
-
-## ⚔️ Tech Arsenal
+<h1 align="center">
+  Hey 👋, I'm Arpi Rathore
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite,nodejs,express,mongodb,firebase,git,github,vercel,figma,threejs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;LLM+Engineer;Creative+Frontend+Developer;Building+AI+%26+Interactive+Experiences" />
+</p>
+
+<p align="center">
+  🚀 Full Stack • 🤖 AI/LLM • 🎮 Creative Dev • ☁️ DevOps
 </p>
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 About Me
+- ⚡ Building **AI-powered apps & LLM agents**
+- 🎮 Crafting **interactive experiences (GSAP + WebGL)**
+- ⚙️ Developing **scalable full-stack systems**
+- ☁️ Working with **DevOps & DevSecOps pipelines**
+- 🎨 Designing in **Figma**, exploring **Blender**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX-Design%20Driven-8B0000?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Frontend-Premium%20Interfaces-B30012?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Animation-GSAP%20%7C%20Lenis%20%7C%20MicroInteractions-990000?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Backend-Learning%20Node%20%26%20Express-7A0000?style=for-the-badge&labelColor=111111" />
+---
+
+## ⚡ Tech Arsenal
+
+### 🎮 Creative Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,threejs,js&theme=dark" />
+<img src="https://img.shields.io/badge/GSAP-171817?style=for-the-badge&logo=greensock&logoColor=11e54e"/>
+<img src="https://img.shields.io/badge/WebGL-05122A?style=for-the-badge"/>
+</p>
+
+### ⚙️ Full Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,vite&theme=dark" />
+</p>
+
+### 🤖 AI / LLM
+<p>
+<img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPT-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+### ☁️ DevOps / DevSecOps
+<p>
+<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge"/>
+</p>
+
+### 🎨 Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩸 1. UCHIA Portfolio
-> Anime-inspired premium portfolio with Sharingan aesthetics, cinematic interactions, smooth transitions, and immersive storytelling.
-
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, GSAP, ScrollTrigger, Lenis
-- **Live Demo:** [View Project](https://kanvar-portfolio.vercel.app/)
-- **Repository:** [View Code](https://github.com/uchia01/uchia01)
-
----
-
-### 🚗 2. DuraCabs – Car Rental Platform
-> Modern car rental platform focused on responsive design, clean booking experience, and conversion-driven layout.
-
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Live Demo:** [View Project](https://duracabs-next-js.vercel.app/)
-- **Repository:** [View Code](https://github.com/uchia01/duracabs-next-js)
-
----
-
-### ☕ 3. Coffee Shop Website
-> A modern and stylish coffee shop website with smooth UI sections, premium product storytelling, and strong visual hierarchy.
-
-- **Tech Stack:** React / Next.js / Tailwind CSS
-- **Live Demo:** [View Project](https://coffee-shop-alpha-beryl.vercel.app/)
-- **Repository:** [View Code](https://github.com/uchia01/coffee-shop)
-
----
-
-### 🏥 4. Unique Wellness Care
-> A healthcare-focused website optimized for trust, service clarity, SEO structure, and user-friendly navigation.
-
-- **Tech Stack:** React, Vite, CSS / Tailwind
-- **Live Demo:** [View Project](https://www.uniquewellnesscare.com/)
-- **Repository:** [View Code](https://github.com/uchia01/unique-wellness-care)
-
----
-
-## 📊 GitHub Power
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uchia01&show_icons=true&theme=shadow_red&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uchia01&theme=highcontrast&hide_border=true&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchia01&layout=compact&theme=shadow_red&hide_border=true&bg_color=0D1117&title_color=ff0000&text_color=ffffff" />
-</p>
-
----
-
-## 🏆 Achievements & Focus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uchia01&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</p>
-
-- 🧩 Building standout frontend experiences
-- ⚡ Improving performance, SEO, and structure
-- 🎨 Designing visually memorable developer brands
-- 🛠️ Expanding toward **Full Stack + DevOps architecture**
-- 📈 Creating projects that attract **recruiters, clients, and opportunities**
-
----
+## 🎧 Now Vibing
 
 ### 🎧 Currently Vibing To
 <p align="center">
@@ -129,48 +82,34 @@
 </p>
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpit-got-no-chill/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
-  </a>
-  <a href="mailto:arpitrathore453@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-B30012?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
-  </a>
-  <a href="https://kanvar-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-990000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
-  </a>
-  <a href="https://x.com/Arpit_rath07">
-    <img src="https://img.shields.io/badge/X-Follow-660000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" />
-  </a>
+<a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://codepen.io"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+<a href="https://youtube.com"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
 
 ---
-
-## 🩸 Currently Building
-
-- 🚀 Upgrading my portfolio into a **full-stack premium experience**
-- ⚙️ Learning **backend architecture + deployment workflows**
-- 🎨 Improving **motion design, micro-interactions, and performance**
-- 🧠 Growing stronger in **JavaScript, React, Next.js, and TypeScript**
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uchia01/uchia01/output/snake.svg" alt="Snake animation" />
+🔥 Building the future with code, design & intelligence 🔥
 </p>
-
----
-
-## 🩸 Quote of the Shinobi
-
-<p align="center">
-  <i>"Power is not given. It is built through discipline, vision, and relentless creation."</i>
-</p>
-
 ---
 
 <!-- ========================= -->
