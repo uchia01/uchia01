@@ -5,26 +5,14 @@
   <img src="/assets/ban1.png" alt="Arpit Rathore UCHIA Banner" width="100%" />
 </p>
 
-<h1 align="center">⚔️ 𝕬𝖗𝖕𝖎𝖙 𝕽𝖆𝖙𝖍𝖔𝖗𝖊 ⚔️</h1>
-<h3 align="center">Frontend Developer • Full Stack Learner • Creative UI Architect • Anime Inspired Builder</h3>
+<h1 align="center">Hey 👋, I'm Arpi Rathore</h1>
+<h3 align="center">🚀 Full Stack • 🤖 AI/LLM • 🎮 Creative Dev • ☁️ DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Crafting+Immersive+Web+Experiences;Building+Dark+Premium+Interfaces;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;UCHIA+MODE+ACTIVATED+%F0%9F%A9%B8" alt="Typing SVG" />
 </p>
 
 ---
-
-<h1 align="center">
-  Hey 👋, I'm Arpi Rathore
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;LLM+Engineer;Creative+Frontend+Developer;Building+AI+%26+Interactive+Experiences" />
-</p>
-
-<p align="center">
-  🚀 Full Stack • 🤖 AI/LLM • 🎮 Creative Dev • ☁️ DevOps
-</p>
 
 ---
 
