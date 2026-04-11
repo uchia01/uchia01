@@ -123,8 +123,8 @@
 
 ### 🎧 Currently Vibing To
 <p align="center">
-  <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR" target="_blank">
-    <img src="https://img.shields.io/badge/🎵%20CURRENT%20VIBE-LISTEN%20ON%20SPOTIFY-8B0000?style=for-the-badge&labelColor=111111&color=B30012" alt="Current Spotify Track" />
+  <a href="https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR?si=9ce1153522e04228">
+    <img src="https://res.cloudinary.com/djbamfi6r/image/upload/v1775890337/Frame_2_1_ypnwak.png" width="420"/>
   </a>
 </p>
 ---
